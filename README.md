@@ -24,21 +24,21 @@ To start collecting images from the ikea website, please open the jupiter notebo
 
 ### Table of content
 
-#### 1. Libraries and constants definition
-1.1 Import libraries
-1.2 Define headers to be visible as the Google Bot.
-1.3 Mount storage
-2. Function definition
-2.1 Create BeautifulSoup instance
-2.2 Creates a list of URL adresses in Ebay Kleinanzeige service of one item
-2.3 Create a list of images sources
-3. Execution
-3.1 Open a list of items
-3.2 Create a list of ebay items based of the list of items names
-3.4 Change directory to save the itemsList (optional)
-3.5 Save the list of IKEA Products to JSON file (optional)
-3.6 Set your train ditrectory to save download images 
-3.7 Scrape images to selected directory and create list of labels
+<br/> 1. Libraries and constants definition
+<br/> 1.1 Import libraries
+<br/> 1.2 Define headers to be visible as the Google Bot.
+<br/> 1.3 Mount storage
+<br/> 2. Function definition
+<br/> 2.1 Create BeautifulSoup instance
+<br/> 2.2 Creates a list of URL adresses in Ebay Kleinanzeige service of one item
+<br/> 2.3 Create a list of images sources
+<br/> 3. Execution
+<br/> 3.1 Open a list of items
+<br/> 3.2 Create a list of ebay items based of the list of items names
+<br/> 3.4 Change directory to save the itemsList (optional)
+<br/> 3.5 Save the list of IKEA Products to JSON file (optional)
+<br/> 3.6 Set your train ditrectory to save download images 
+<br/> 3.7 Scrape images to selected directory and create list of labels
 
 ### Built With
 
