@@ -23,7 +23,6 @@ The model used in the IKEA_classifier application is part of the final project.
 To start collecting images from the ikea website, please open the jupiter notebook in [Google Colab](https://colab.research.google.com/drive/1hOcuZJ_1B5fV5EHMvxtlfyTGhy_meC1z?usp=sharing) and follow the instructions
 
 ### Table of content
-
 <br/> 1. Libraries and constants definition
 <br/> 1.1 Import libraries
 <br/> 1.2 Define headers to be visible as the Google Bot.
