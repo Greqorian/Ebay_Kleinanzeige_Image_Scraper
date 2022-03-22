@@ -24,7 +24,7 @@ To start collecting images from the ikea website, please open the jupiter notebo
 
 ### Table of content
 
-1. Libraries and constants definition
+#### 1. Libraries and constants definition
 1.1 Import libraries
 1.2 Define headers to be visible as the Google Bot.
 1.3 Mount storage
