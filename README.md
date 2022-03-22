@@ -9,6 +9,7 @@
     Scraping pictures from Ebay Kleinanzige websites
   </p>
 </p>
+---
 
 
 <!-- ABOUT THE PROJECT -->
