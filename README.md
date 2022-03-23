@@ -1,8 +1,9 @@
 
 <!-- PROJECT LOGO -->
+![ebay_images](batch_ebay_images.png)
 <br />
 <p align="center">
-![ebay_images](batch_ebay_images.png)
+
   <h3 align="center">Ebay_Kleinanzeige_Image_Scraper</h3>
 
   <p align="center">
