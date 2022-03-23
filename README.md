@@ -1,6 +1,8 @@
 
 <!-- PROJECT LOGO -->
+<div  align="center">
 ![ebay_images](batch_ebay_images.png)
+<div/>
 <br />
 <p align="center">
 
