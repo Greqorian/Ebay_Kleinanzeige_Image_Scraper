@@ -1,7 +1,5 @@
 
 <!-- PROJECT LOGO -->
-<img src="batch_ebay_images.png" width="350">
-
 <br />
 <p align="center">
 <img src="batch_ebay_images.png" width="350">
