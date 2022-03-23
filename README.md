@@ -1,8 +1,8 @@
 
 <!-- PROJECT LOGO -->
-<div  align="center">
+<img src="batch_ebay_images.png" width="150">
 ![ebay_images](batch_ebay_images.png)
-</div>
+
 <br />
 <p align="center">
 
