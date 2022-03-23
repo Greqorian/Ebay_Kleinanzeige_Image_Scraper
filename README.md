@@ -1,7 +1,6 @@
 
 <!-- PROJECT LOGO -->
-<img src="batch_ebay_images.png" width="150">
-![ebay_images](batch_ebay_images.png)
+<img src="batch_ebay_images.png" width="300">
 
 <br />
 <p align="center">
