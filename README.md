@@ -1,10 +1,10 @@
 
 <!-- PROJECT LOGO -->
-<img src="batch_ebay_images.png" width="300">
+<img src="batch_ebay_images.png" width="350">
 
 <br />
 <p align="center">
-
+<img src="batch_ebay_images.png" width="350">
   <h3 align="center">Ebay_Kleinanzeige_Image_Scraper</h3>
 
   <p align="center">
