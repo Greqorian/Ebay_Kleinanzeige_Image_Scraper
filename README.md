@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
+![](batch_ebay_images.png)
   <h3 align="center">Ebay_Kleinanzeige_Image_Scraper</h3>
 
   <p align="center">
